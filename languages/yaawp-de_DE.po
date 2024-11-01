@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YAAWP\n"
+"POT-Creation-Date: 2013-02-06 12:41+0100\n"
+"PO-Revision-Date: 2013-02-06 13:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: Kai Lange <kl@proconcept.ag>\n"
+"Language: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ajax.php:105
+msgid "Fertig"
+msgstr "Fertig"
+
+#: ../ajax.php:118
+#, fuzzy
+msgid "Artikel gesammt"
+msgstr "Artikel Neu"
+
+#: ../ajax.php:125
+msgid "Neue Kategorie"
+msgstr "Neue Kategorie"
+
+#: ../ajax.php:132
+msgid "Name"
+msgstr "Name"
+
+#: ../ajax.php:138
+msgid ""
+"Die \"Titelform (in URLs)\" ist die URL-Variante des Namens. Sie besteht "
+"normalerweise nur aus Kleinbuchstaben, Zahlen und Bindestrichen."
+msgstr ""
+"Die \"Titelform (in URLs)\" ist die URL-Variante des Namens. Sie besteht "
+"normalerweise nur aus Kleinbuchstaben, Zahlen und Bindestrichen."
+
+#: ../ajax.php:141
+msgid "&Uuml;bergeordnet"
+msgstr "&Uuml;bergeordnet"
+
+#: ../ajax.php:143
+msgid "Keine"
+msgstr "Keine"
+
+#: ../ajax.php:150 ../templates/backend/yaawp-admin_ueber.php:21
+msgid "Beschreibung"
+msgstr "Beschreibung"
+
+#: ../ajax.php:152
+msgid ""
+"Die Beschreibung wird nicht immer angezeigt. Bei dem ein oder anderen Theme "
+"mag sie angezeigt werden."
+msgstr ""
+"Die Beschreibung wird nicht immer angezeigt. Bei dem ein oder anderen Theme "
+"mag sie angezeigt werden."
+
+#: ../ajax.php:155
+msgid "Kategorie erstellen und Artikel importieren."
+msgstr "Kategorie erstellen und Artikel importieren."
+
+#: ../ajax.php:161
+msgid "bestehende Kategorie"
+msgstr "bestehende Kategorie"
+
+#: ../ajax.php:172
+msgid "Artikel in diese Kategorie importieren."
+msgstr "Artikel in diese Kategorie importieren."
+
+#: ../ajax.php:177
+msgid "Status"
+msgstr "Status"
+
+#: ../ajax.php:177
+msgid "Artikel importiert. Fehlgeschlagen:"
+msgstr "Artikel importiert. Fehlgeschlagen:"
+
+#: ../popup.php:44
+#, fuzzy
+msgid "Keine Daten vorhanden"
+msgstr "Keine Betraege vorhanden."
+
+#: ../popup.php:122
+msgid "ASIN"
+msgstr "ASIN"
+
+#: ../popup.php:127
+msgid "Template"
+msgstr "Template"
+
+#: ../popup.php:129
+#, fuzzy
+msgid "Produkt mit Bild"
+msgstr "Produkt Vorschau "
+
+#: ../popup.php:130
+#, fuzzy
+msgid "Produkt ohne Bild"
+msgstr "Produkt Vorschau "
+
+#: ../popup.php:131
+#, fuzzy
+msgid "Produktlink"
+msgstr "Produkt Vorschau "
+
+#: ../popup.php:136
+msgid "Shortcode ein&uuml;gen"
+msgstr "Shortcode ein&uuml;gen"
+
+#: ../popup.php:144
+msgid "Vorschau"
+msgstr "Vorschau"
+
+#: ../popup.php:147 ../popup.php:159
+#, fuzzy
+msgid "Keine vorhanden"
+msgstr "Keine Betraege vorhanden."
+
+#: ../popup.php:156
+msgid "Quellcode Vorschau"
+msgstr "Quellcode Vorschau"
+
+#: ../yaawp_lite.php:116
+msgid "Fehler: functions.php nicht vorhanden."
+msgstr "Fehler: functions.php nicht vorhanden."
+
+#: ../yaawp_lite.php:119
+msgid "Fehler: install.class.php nicht vorhanden."
+msgstr "Fehler: install.class.php nicht vorhanden."
+
+#: ../yaawp_lite.php:122
+msgid "Fehler: amazon.class.php nicht vorhanden."
+msgstr "Fehler: amazon.class.php nicht vorhanden."
+
+#: ../yaawp_lite.php:172 ../yaawp_lite.php:594
+#: ../templates/backend/yaawp-admin_settings.php:5
+msgid "Einstellungen"
+msgstr "Einstellungen"
+
+#: ../yaawp_lite.php:173
+msgid "Import"
+msgstr "Import"
+
+#: ../yaawp_lite.php:201
+#, fuzzy
+msgid "Kein Artikel gefunden."
+msgstr "Keine Betraege vorhanden."
+
+#: ../yaawp_lite.php:202
+msgid "Bitte Auswahl treffen."
+msgstr "Bitte Auswahl treffen."
+
+#: ../yaawp_lite.php:203 ../templates/backend/import.php:35
+msgid "Seite w&auml;hlen"
+msgstr "Seite w&auml;hlen"
+
+#: ../yaawp_lite.php:204
+msgid "Ausw&auml;hlen oder lassen und letzte Kategorie nutzen."
+msgstr "Ausw&auml;hlen oder lassen und letzte Kategorie nutzen."
+
+#: ../yaawp_lite.php:205
+msgid "Ergebnisse:"
+msgstr "Ergebnisse:"
+
+#: ../yaawp_lite.php:234 ../yaawp_lite.php:249 ../yaawp_lite.php:305
+#: ../yaawp_lite.php:326
+msgid "Bild"
+msgstr "Bild"
+
+#: ../yaawp_lite.php:237 ../yaawp_lite.php:251 ../yaawp_lite.php:292
+msgid "Bild hinzuf&uuml;gen"
+msgstr "Bild hinzuf&uuml;gen"
+
+#: ../yaawp_lite.php:252 ../yaawp_lite.php:293
+msgid "Bild entfernen"
+msgstr "Bild entfernen"
+
+#: ../yaawp_lite.php:289 ../yaawp_lite.php:317
+#: ../templates/backend/import.php:47 ../templates/backend/import.php:58
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: ../yaawp_lite.php:327 ../templates/backend/import.php:12
+#: ../templates/backend/import.php:51 ../templates/backend/import.php:62
+msgid "Kategorie"
+msgstr "Kategorie"
+
+#: ../yaawp_lite.php:328
+msgid "Preis"
+msgstr "Preis"
+
+#: ../yaawp_lite.php:373
+#, fuzzy
+msgid "Fehler: Nonce fehlt/falsch oder keine Rechte"
+msgstr "Fehler: Nonce fehlt/falsch"
+
+#: ../yaawp_lite.php:383
+msgid "Cache wurde gel&ouml;scht."
+msgstr "Cache wurde gel&ouml;scht."
+
+#: ../yaawp_lite.php:390
+msgid "Cache wurde nicht gel&ouml;scht."
+msgstr "Cache wurde nicht gel&ouml;scht."
+
+#: ../yaawp_lite.php:403
+msgid "Cache Interval wurde aktualisiert."
+msgstr "Cache Interval wurde aktualisiert."
+
+#: ../yaawp_lite.php:410
+msgid "Cache Interval wurde nicht aktualisiert."
+msgstr "Cache Interval wurde nicht aktualisiert."
+
+#: ../yaawp_lite.php:477
+#, fuzzy
+msgid "Amazon Geheimer Zugriffsschl&uuml;ssel aktualisiert"
+msgstr "Amazon Geheimer Zugriffsschl&uuml;ssel"
+
+#: ../yaawp_lite.php:484
+#, fuzzy
+msgid "Amazon Zugriffsschl&uuml;ssel-ID aktualisiert"
+msgstr "Amazon Zugriffsschl&uuml;ssel-ID"
+
+#: ../yaawp_lite.php:491
+#, fuzzy
+msgid "Amazon Tracking ID aktualisiert"
+msgstr "Amazon Tracking ID"
+
+#: ../yaawp_lite.php:506
+msgid "Es wurden keine Einstellungen aktualisiert."
+msgstr "Es wurden keine Einstellungen aktualisiert."
+
+#: ../yaawp_lite.php:576
+#, fuzzy
+msgid "Fehler: import.php nicht vorhanden."
+msgstr "Fehler: template.php nicht vorhanden."
+
+#: ../yaawp_lite.php:595 ../templates/backend/yaawp-admin_cache.php:5
+msgid "Cache"
+msgstr "Cache"
+
+#: ../yaawp_lite.php:596 ../templates/backend/yaawp-admin_sta.php:5
+msgid "Statistik"
+msgstr "Statistik"
+
+#: ../yaawp_lite.php:597 ../templates/backend/yaawp-admin_ueber.php:5
+msgid "&Uuml;ber"
+msgstr "&Uuml;ber"
+
+#: ../yaawp_lite.php:611
+msgid "Fehler: template.php nicht vorhanden."
+msgstr "Fehler: template.php nicht vorhanden."
+
+#: ../yaawp_lite.php:637 ../classes/install.class.php:27
+#, fuzzy
+msgid "Alle Produkte"
+msgstr "Neue Produkt Vorschau"
+
+#: ../yaawp_lite.php:638 ../classes/install.class.php:28
+msgid "Produkte Vorschau"
+msgstr "Produkte Vorschau"
+
+#: ../yaawp_lite.php:639 ../classes/install.class.php:29
+#, fuzzy
+msgid "Erstellen"
+msgstr "Einstellungen"
+
+#: ../yaawp_lite.php:640 ../classes/install.class.php:30
+#, fuzzy
+msgid "Produkt Neu"
+msgstr "Produkt Vorschau "
+
+#: ../yaawp_lite.php:641 ../classes/install.class.php:31
+msgid "Bearbeiten"
+msgstr "Bearbeiten"
+
+#: ../yaawp_lite.php:642 ../classes/install.class.php:32
+#, fuzzy
+msgid "Produkt Bearbeiten"
+msgstr "Artikel im Warenkorb:"
+
+#: ../yaawp_lite.php:643 ../classes/install.class.php:33
+msgid "Ansehen"
+msgstr "Ansehen"
+
+#: ../yaawp_lite.php:644 ../classes/install.class.php:34
+#, fuzzy
+msgid "Produkt ansehen"
+msgstr "Produkt Vorschau "
+
+#: ../yaawp_lite.php:645 ../classes/install.class.php:35
+#, fuzzy
+msgid "Produkte durchsuchen"
+msgstr "Artikel durchsuchen"
+
+#: ../yaawp_lite.php:646 ../classes/install.class.php:36
+#, fuzzy
+msgid "Keine Produkte gefunden."
+msgstr "Keine Betraege vorhanden."
+
+#: ../yaawp_lite.php:647 ../classes/install.class.php:37
+#, fuzzy
+msgid "Keine Produkte im Papierkorb gefunden."
+msgstr "Keine Artikel im Papierkorb gefunden."
+
+#: ../yaawp_lite.php:648 ../classes/install.class.php:38
+msgid "YAAWP"
+msgstr "YAAWP"
+
+#: ../yaawp_lite.php:649 ../classes/install.class.php:39
+#: ../templates/backend/yaawp-admin_sta.php:17
+#, fuzzy
+msgid "Produkte"
+msgstr "Produkt Vorschau "
+
+#: ../yaawp_lite.php:665 ../yaawp_lite.php:666 ../classes/install.class.php:55
+#: ../classes/install.class.php:56
+msgid "Kategorien"
+msgstr "Kategorien"
+
+#: ../yaawp_lite.php:667 ../classes/install.class.php:57
+msgid "Kategorien suchen"
+msgstr "Kategorien suchen"
+
+#: ../yaawp_lite.php:668 ../classes/install.class.php:58
+msgid "Alle Kategorien"
+msgstr "Alle Kategorien"
+
+#: ../yaawp_lite.php:669 ../classes/install.class.php:59
+msgid "&Uuml;bergeordnete Kategorie"
+msgstr "&Uuml;bergeordnete Kategorie"
+
+#: ../yaawp_lite.php:670 ../classes/install.class.php:60
+#, fuzzy
+msgid "Kategorie bearbeiten"
+msgstr "Artikel im Warenkorb:"
+
+#: ../yaawp_lite.php:671 ../classes/install.class.php:61
+msgid "Neue Kategorie erstellen"
+msgstr "Neue Kategorie erstellen"
+
+#: ../yaawp_lite.php:747
+msgid "YAAWP Template"
+msgstr "YAAWP Template"
+
+#: ../classes/install.class.php:101
+msgid "Fehler: Datenbank konnte nicht erstellt werden."
+msgstr "Fehler: Datenbank konnte nicht erstellt werden."
+
+#: ../classes/install.class.php:172
+#, fuzzy, php-format
+msgid "Fehler: Datens&auml;tze %s konnte nicht importiert werden."
+msgstr "Fehler: Datens&auml;tze konnte nicht importiert werden."
+
+#: ../classes/install.class.php:182
+#, fuzzy, php-format
+msgid "Fehler: Datenbank %s konnte nicht gel&ouml;scht werden."
+msgstr "Fehler: Datenbank konnte nicht gel&ouml;scht werden."
+
+#: ../templates/backend/import.php:3
+#, fuzzy
+msgid "Yet Another Amazon Wordpress Plugin: Import"
+msgstr "Yet Another Amazon Wordpress Plugin"
+
+#: ../templates/backend/import.php:10
+msgid "Suchwort"
+msgstr "Suchwort"
+
+#: ../templates/backend/import.php:14
+msgid "Sortierung w&auml;hlen"
+msgstr "Sortierung w&auml;hlen"
+
+#: ../templates/backend/import.php:26
+msgid "Suchen"
+msgstr "Suchen"
+
+#: ../templates/backend/import.php:37
+msgid "Importieren"
+msgstr "Importieren"
+
+#: ../templates/backend/import.php:48 ../templates/backend/import.php:59
+#, fuzzy
+msgid "Titel / Beschreibung"
+msgstr "Beschreibung"
+
+#: ../templates/backend/import.php:49 ../templates/backend/import.php:60
+msgid "Preis / UVP / Gebraucht"
+msgstr "Preis / UVP / Gebraucht"
+
+#: ../templates/backend/import.php:50 ../templates/backend/import.php:61
+msgid "ASIN / Kundenstimmen / Verkaufsrang"
+msgstr "ASIN / Kundenstimmen / Verkaufsrang"
+
+#: ../templates/backend/import.php:52 ../templates/backend/import.php:63
+msgid "Verf&uuml;gbarkeit"
+msgstr "Verf&uuml;gbarkeit"
+
+#: ../templates/backend/import.php:68
+msgid "Bitte auswahl treffen"
+msgstr "Bitte auswahl treffen"
+
+#: ../templates/backend/template.php:3
+msgid "Yet Another Amazon Wordpress Plugin"
+msgstr "Yet Another Amazon Wordpress Plugin Lite"
+
+#: ../templates/backend/yaawp-admin_cache.php:9
+msgid "Legt die Zeit f&uuml;r den Cache fest (in Sekunden)"
+msgstr "Legt die Zeit f&uuml;r den Cache fest (in Sekunden)"
+
+#: ../templates/backend/yaawp-admin_cache.php:14
+#: ../templates/backend/yaawp-admin_settings.php:39
+msgid "Speichern"
+msgstr "Speichern"
+
+#: ../templates/backend/yaawp-admin_cache.php:15
+#, fuzzy
+msgid "Cache komplett L&ouml;schen"
+msgstr "L&ouml;schen"
+
+#: ../templates/backend/yaawp-admin_settings.php:9
+msgid "Amazon Geheimer Zugriffsschl&uuml;ssel"
+msgstr "Amazon Geheimer Zugriffsschl&uuml;ssel"
+
+#: ../templates/backend/yaawp-admin_settings.php:14
+msgid "Amazon Zugriffsschl&uuml;ssel-ID"
+msgstr "Amazon Zugriffsschl&uuml;ssel-ID"
+
+#: ../templates/backend/yaawp-admin_settings.php:19
+msgid "Amazon Tracking ID"
+msgstr "Amazon Tracking ID"
+
+#: ../templates/backend/yaawp-admin_settings.php:24
+msgid "Amazon Netzwerk"
+msgstr "Amazon Netzwerk"
+
+#: ../templates/backend/yaawp-admin_setup.php:6
+msgid "Datenschutz"
+msgstr "Datenschutz"
+
+#: ../templates/backend/yaawp-admin_setup.php:9
+msgid ""
+"Wir wissen, dass Sie als Websitenbetreiber dem Thema\n"
+"\t\tDatenschutz gro&szlig;e Bedeutung bemessen. Uns ist der Schutz Ihrer "
+"pers&ouml;nlichen\n"
+"\t\tDaten daher ein wichtiges Anliegen. Pers&ouml;nliche Daten, die Sie "
+"elektronisch\n"
+"\t\t&uuml;bermitteln, z.B. Ihre IP-Adresse oder Email-Adresse, werden von "
+"uns dem technischen Standard entsprechend\n"
+"\t\tverwahrt und nicht an Dritte weitergegeben."
+msgstr ""
+"Wir wissen, dass Sie als Websitenbetreiber dem Thema Datenschutz gro&szlig;e "
+"Bedeutung bemessen. Uns ist der Schutz Ihrer pers&ouml;nlichen Daten daher "
+"ein wichtiges Anliegen. Pers&ouml;nliche Daten, die Sie elektronisch &uuml;"
+"bermitteln, z.B. Ihre IP-Adresse oder Email-Adresse, werden von uns dem "
+"technischen Standard entsprechend verwahrt und nicht an Dritte weitergegeben."
+
+#: ../templates/backend/yaawp-admin_setup.php:15
+msgid ""
+"Etwaige Haftungsanspr&uuml;che, welche sich auf Schaden materieller oder "
+"ideeller Art\n"
+"\t\tbeziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen "
+"Informationen\n"
+"\t\tbzw. durch die Nutzung fehlerhafter und unvollst&auml;ndiger "
+"Informationen verursacht\n"
+"\t\twurden, sind grunds&auml;tzlich ausgeschlossen."
+msgstr ""
+"Etwaige Haftungsanspr&uuml;che, welche sich auf Schaden materieller oder "
+"ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der "
+"dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und "
+"unvollst&auml;ndiger Informationen verursacht wurden, sind grunds&auml;"
+"tzlich ausgeschlossen."
+
+#: ../templates/backend/yaawp-admin_setup.php:20
+msgid ""
+"Das Yet Another Amazon Wordpress Plugin befindet sich weiterhin in der "
+"Entwicklung, um aktuelle Informationen\n"
+"\t\tzum Plugin oder zur Pro Version zu erhalten m&ouml;chten wir Sie bitten "
+"uns zu erlauben einen IFrame im \"Dashboard\" des Plugin zu laden.\n"
+"\t\t<strong>Es werden keinelei Daten von Ihnen &uuml;bertragen bzw. "
+"gespeichert!</strong>"
+msgstr ""
+"Das Yet Another Amazon Wordpress Plugin Lite befindet sich weiterhin in der "
+"Entwicklung, um aktuelle Informationen zum Plugin oder zur Pro Version zu "
+"erhalten m&ouml;chten wir Sie bitten uns zu erlauben einen IFrame im "
+"\"Dashboard\" des Plugin zu laden. <strong>Es werden keinelei Daten von "
+"Ihnen &uuml;bertragen bzw. gespeichert!</strong>"
+
+#: ../templates/backend/yaawp-admin_setup.php:25
+msgid "Ja, ich bin damit einverstanden"
+msgstr "Ja, ich bin damit einverstanden"
+
+#: ../templates/backend/yaawp-admin_setup.php:26
+msgid "Nein, ich bin nicht damit einverstanden"
+msgstr "Nein, ich bin nicht damit einverstanden"
+
+#: ../templates/backend/yaawp-admin_ueber.php:11
+msgid "Version"
+msgstr "Version"
+
+#: ../templates/backend/yaawp-admin_ueber.php:16
+msgid "Plugin URL"
+msgstr "Plugin URL"
+
+#: ../templates/frontend/archive.php:48
+msgid "sparen"
+msgstr "sparen"
+
+#~ msgid "Fehler: yaawp-widget-1.php nicht vorhanden."
+#~ msgstr "Fehler: yaawp-widget-1.php nicht vorhanden."
+
+#~ msgid "Fehler: yaawp-widget-search.php nicht vorhanden."
+#~ msgstr "Fehler: yaawp-widget-search.php nicht vorhanden."
+
+#, fuzzy
+#~ msgid "Fehler: yaawp-widget-random-items.php nicht vorhanden."
+#~ msgstr "Fehler: yaawp-widget-1.php nicht vorhanden."
+
+#~ msgid "Alle Artikel"
+#~ msgstr "Alle Artikel"
+
+#, fuzzy
+#~ msgid "Artikel ansehen"
+#~ msgstr "Artikel im Warenkorb:"
+
+#, fuzzy
+#~ msgid "Artikel im Warenkorb: 0"
+#~ msgstr "Artikel im Warenkorb:"
+
+#, fuzzy
+#~ msgid "Fehler: test.php nicht vorhanden."
+#~ msgstr "Fehler: template.php nicht vorhanden."
+
+#~ msgid "Es wurde keine Post-ID uebergeben"
+#~ msgstr "Es wurde keine Post-ID uebergeben"
+
+#~ msgid "Es wurden keine Meta-Daten gefunden"
+#~ msgstr "Es wurden keine Meta-Daten gefunden"
+
+#~ msgid "Artikel im Warenkorb:"
+#~ msgstr "Artikel im Warenkorb:"
+
+#~ msgid "Fehler: Produkt %s im Cache nicht vorhanden."
+#~ msgstr "Fehler: Produkt %s im Cache nicht vorhanden."
+
+#~ msgid ""
+#~ "Beim absenden werden alle durch YAAWP erzeugten Beitr&auml;ge gel&ouml;"
+#~ "scht."
+#~ msgstr ""
+#~ "Beim absenden werden alle durch YAAWP erzeugten Beitr&auml;ge gel&ouml;"
+#~ "scht."
+
+#~ msgid "Preis UVP (%s): %s"
+#~ msgstr "Preis UVP (%s): %s"
+
+#~ msgid "Dient aktuell als Platzhalter fuer den Warenkorb"
+#~ msgstr "Dient aktuell als Platzhalter fuer den Warenkorb"
+
+#, fuzzy
+#~ msgid "YAAWP Warenkorb"
+#~ msgstr " in den Warenkorb"
+
+#~ msgid "Titel"
+#~ msgstr "Titel"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Freitext"
+#~ msgstr "Hier ist Platz für den eigenen Text"
+
+#~ msgid "Amazon Suchfunktion"
+#~ msgstr "YAAWP Sidebar Widget: Suche"
+
+#, fuzzy
+#~ msgid "YAAWP Suchfunktion"
+#~ msgstr "YAAWP Sidebar Widget: Suche"
+
+#~ msgid "Yet Another Amazon Wordpress Plugin: Einstellungen"
+#~ msgstr "Yet Another Amazon Wordpress Plugin: Einstellungen"
+
+#~ msgid "YAAWP Seiten Helfer"
+#~ msgstr "YAAWP Seiten Helfer"
+
+#~ msgid "YAAWP Sidebar Widget"
+#~ msgstr "YAAWP Sidebar Widget"
+
+#~ msgid "YAAWP Search Sidebar Widget"
+#~ msgstr "YAAWP Sidebar Widget"
+
+#~ msgid "%2$s Artikel im Warenkorb:"
+#~ msgstr "%2$s Artikel im Warenkorb:"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Write some text here ..."
+#~ msgstr "... Freitext"
+
+#~ msgid "A little demonstration on programming a wordpress widget."
+#~ msgstr "La La La"
+
+#~ msgid "Test"
+#~ msgstr "Test"

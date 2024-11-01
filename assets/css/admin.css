@@ -1,0 +1,64 @@
+.yyywp_setting {
+	padding:3px 8px;
+	font-size:1.5em;
+	width:100%;
+	outline:0;
+	float: left;
+}
+
+#yaawp_settings .header {
+	background-color: #003b45;
+	color: #FFFFFF;
+	padding: 0;
+	text-align: left;
+}
+
+#yaawp_settings .header h1 {
+	padding: 8px;
+}
+
+.yaawp-publishing-actions {
+	padding: 10px 0;
+	clear: both;
+}
+
+#load {
+	display: none;
+}
+
+th.column-thumb {
+	width:60px;
+}
+
+.form-field img.taxonomy-image {
+	border:1px solid #eee;
+	max-width:300px;
+	max-height:300px;
+}
+
+.inline-edit-row fieldset .thumb label span.title {
+	width:48px;
+	height:48px;
+	border:1px solid #eee;
+	display:inline-block;
+}
+
+.column-thumb span {
+	width:48px;
+	height:48px;
+	border:1px solid #eee;
+	display:inline-block;
+}
+
+.inline-edit-row fieldset .thumb img,.column-thumb img {
+	width:48px;
+	height:48px;
+}
+
+.wp-list-table thead tr th#price {
+	width: 100px;
+}
+
+.wp-list-table thead tr th#categorie {
+	width: 200px;
+}
